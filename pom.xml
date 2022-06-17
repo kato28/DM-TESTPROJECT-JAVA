@@ -11,7 +11,7 @@
 	<description>A sample Drools Maven project</description>
 
 	<properties>
-		<runtime.version>7.23.0.Final</runtime.version>
+		<runtime.version>7.60.0.Final</runtime.version>
 	</properties>
 
 
